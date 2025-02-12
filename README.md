@@ -1,2 +1,4 @@
-# Excel-Data-analysis-dashboard
-I developed a comprehensive project in Excel,creating mulriple dashboards and tables to analze the data. This process involves several stages,preprocessing,data cleaning and data visualization
+# K-Mart Store Data Analysis (Interactive Dashboards Creating Using MS Excel
+## Project Objective
+
+K-Mart store wants to create an annual sales report for 2022.So that K-mart can understand their customers and grow sales in 2023.
